@@ -32,7 +32,7 @@ int main() {
 	nums.push_back(1);
 	nums.push_back(2);
 	int len = Solution().removeDuplicates(nums);
-	cout << "×Ü³¤¶È£º"<<nums.size() << endl;
+	cout << "nums lenght: "<<nums.size() << endl;
 	for (auto num : nums) {
 		cout << num<<endl;
 	}
