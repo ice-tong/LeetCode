@@ -7,4 +7,4 @@
 |3|[Rotate Array](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/23/)|[Rotate Array.cpp](https://github.com/ice-tong/LeetCode/blob/master/Array/Rotate%20Array.cpp)|C++|
 |4|[exist repeat](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/24/)|[containsDuplicate.cpp](https://github.com/ice-tong/LeetCode/blob/master/Array/containsDuplicate.cpp)|C++|
 |5|[a number that only appears once](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/25/)|[singleNumber.cpp](https://github.com/ice-tong/LeetCode/blob/master/Array/singleNumber.cpp)|C++|
-|6|[Intersect Array](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/26/)||C++|
+|6|[Intersect Array](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/26/)|[intersect.cpp](https://github.com/ice-tong/LeetCode/blob/master/Array/intersect.cpp)|C++|
