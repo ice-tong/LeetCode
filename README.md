@@ -8,3 +8,4 @@
 |4|[存在重复](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/24/)|[contains_duplicate.cpp](https://github.com/ice-tong/LeetCode/blob/master/Array/contains_duplicate.cpp)|
 |5|[只出现一次的数字](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/25/)|[single_number.cpp](https://github.com/ice-tong/LeetCode/blob/master/Array/single_number.cpp)|
 |6|[两个数组的交集 II](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/26/)|[intersect.cpp](https://github.com/ice-tong/LeetCode/blob/master/Array/intersect.cpp)|
+|7|[加一](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/27/)|[plus_one.cpp](https://github.com/ice-tong/LeetCode/blob/master/Array/plus_one.cpp)
