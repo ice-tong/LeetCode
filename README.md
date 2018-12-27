@@ -1,5 +1,7 @@
 # LeetCode
 
+## 数组 Array
+
 |序号|题目|代码|
 |----|----|----|
 |1| [从排序数组中删除重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/description/)|[remove_duplicates.cpp](https://github.com/ice-tong/LeetCode/blob/master/Array/remove_duplicates.cpp)|
