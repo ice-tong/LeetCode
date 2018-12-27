@@ -1,10 +1,10 @@
 # LeetCode
 
-|序号|题目|代码|语言|
+|序号|题目|代码|
 |----|----|----|----|
-|1| [Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/description/)|[Remove-Duplicates-from-Sorted-Array.cpp](https://github.com/ice-tong/LeetCode/blob/master/Array/Remove-Duplicates-from-Sorted-Array.cpp)|C++|
-|2|[Best time to buy and sell stock ii](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/22/)|[Best-time-to-buy-and-sell-stock-ii.cpp](https://github.com/ice-tong/LeetCode/blob/master/Array/Best-time-to-buy-and-sell-stock-ii.cpp)|C++|
-|3|[Rotate Array](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/23/)|[rotateArray.cpp](https://github.com/ice-tong/LeetCode/blob/master/Array/rotateArray.cpp)|C++|
-|4|[exist repeat](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/24/)|[containsDuplicate.cpp](https://github.com/ice-tong/LeetCode/blob/master/Array/containsDuplicate.cpp)|C++|
-|5|[a number that only appears once](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/25/)|[singleNumber.cpp](https://github.com/ice-tong/LeetCode/blob/master/Array/singleNumber.cpp)|C++|
-|6|[Intersect Array](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/26/)|[intersect.cpp](https://github.com/ice-tong/LeetCode/blob/master/Array/intersect.cpp)|C++|
+|1| [从排序数组中删除重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/description/)|[remove_duplicates.cpp](https://github.com/ice-tong/LeetCode/blob/master/Array/remove_duplicates.cpp)|
+|2|[买卖股票的最佳时机 II](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/22/)|[max_profit.cpp](https://github.com/ice-tong/LeetCode/blob/master/Array/max_profit.cpp)|
+|3|[旋转数组](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/23/)|[rotate.cpp](https://github.com/ice-tong/LeetCode/blob/master/Array/rotate.cpp)|
+|4|[存在重复](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/24/)|[contains_duplicate.cpp](https://github.com/ice-tong/LeetCode/blob/master/Array/contains_duplicate.cpp)|
+|5|[只出现一次的数字](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/25/)|[single_number.cpp](https://github.com/ice-tong/LeetCode/blob/master/Array/single_number.cpp)|
+|6|[两个数组的交集 II](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/26/)|[intersect.cpp](https://github.com/ice-tong/LeetCode/blob/master/Array/intersect.cpp)|
